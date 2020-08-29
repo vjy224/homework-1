@@ -44,7 +44,5 @@ git clone https://gitlab.com/<<your-id>>-cse262/homework-1
 cd homework-1/guessing_game
 cargo run
 ```
-hello
-testing
-hello
+testing01
 
